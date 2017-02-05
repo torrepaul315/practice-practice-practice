@@ -7,4 +7,7 @@ added a third line....holy moly!
 
 added one more! ahhhhh!
 
-now we're on the practice branch! 
+now we're on the practice branch!
+
+
+and I added some info again....what's going on? the branch should be different than master! 
